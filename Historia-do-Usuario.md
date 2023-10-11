@@ -1,15 +1,15 @@
  # HISTORIA DO USUARIO
 | Identificador | Historia | Pontuação
 | --- | --- | --- | 
-| US01 | Eu como diretor desejo manter turmas para organizar os alunos adequadamente em suas turmas. | 0
-| US02 | Eu, como diretor, desejo manter disciplinas para gerenciar as disciplinas que são oferecidas. | 0
-| US03 | Eu como funcionário da escola desejo consultar alunos para visualizar seus dados. | 0
-| US04 | Eu como diretor desejo manter os professores para melhor administração dos alunos. | 0
-| US05 | Eu como desejo aluno visualizar o meu boletim a fim de acompanhar meu rendimento acadêmico. | 0
-| US06 | Eu como desejo visualizar o(s) boletim(ns) do(s) aluno(s) na qual sou responsável. | 0
-| US07 | Eu, como secretário, desejo poder visualizar os boletins dos alunos para verificar se as informações estão corretas. | 0
-| US08 | Eu como desejo registrar notas aos alunos para ter controle das notas dos mesmos. | 0
-| US09 | Eu como professor visualizar as notas dos alunos dos quais leciono. | 0
+| US01 | Eu como vigilante desejo me manter informado de quem esta com a chave? | 0
+| US02 | Eu, como vigilante, desejo manter disciplinas para gerenciar a organização das chaves de cada bloco. | 0
+| US03 | Eu como funcionário da escola desejo consultar alunos para visualizar o controle de chaves. | 0
+| US04 | Eu como diretor desejo manter os professores informados para melhor administração das chaves. | 0
+| US05 | Eu desejo como aluno um cargo de monitor para a posse das chaves. | 0
+| US06 | Eu como servidor desejo saber a troca de usos da chaves. | 0
+| US07 | Eu, como secretário, desejo poder visualizar a forma correta de quem esta responsavel pelo o controle das chaves. | 0
+| US08 | Eu como vigilante desejo registrar de quem esta com a chave. | 0
+| US09 | Eu como vigilante desejo registrar alguma ocorrencia caso aconteça algum imprevisto. | 0
 
 
 
