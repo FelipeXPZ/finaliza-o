@@ -2,4 +2,4 @@
 |Nome | Responsabilidade | E-mail | Github
 | :---         |     :---:      |          ---: |      ---:|
 | Kemelly     | Documento de Visão (escorpo) editora    | caang.2022119isinf26@aluno.ifpi.edu.br | Kemellyamorim
-| git diff     | git diff       | git diff      |
+| Evanildo     | Documento de Visão  | caang.2022119isinf09@aluno.ifpi.edu.br  | Evanildoplay      |
