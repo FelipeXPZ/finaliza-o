@@ -1,16 +1,11 @@
-# 1. Introdução
-## 1.1 Este documento tem como objetivo definir e organizar as características sobre o desenvolvimento da solução Escola X.
+# 1.introdução
+Este documento possui como finalidade a elucidação das questões relacionadas à implementação arquitetural do projeto Escola-X, desenvolvido nas disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portfólios e Projetos de Software, que possui como cliente principal a diretoria da escola CEM 01 do Gama.
 
 # 1.2 Escopo
-Este projeto tem como finalidade suprir a necessidade de controle e gerenciamento da diretoria referente a vida acadêmica dos alunos da escola Centro de Ensino Médio 01 do Gama.
+Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
 
-A direção busca uma solução em software para substituir um sistema previamente implementado, sendo que, deve possuir como característica fundamental a confiabilidade.
-
-O software, a ser implementado, deve monitorar a presença e atividades escolares dos alunos mantendo os responsáveis informados.
-
-# 1.3 visão geral
-
-Este documento descreve os detalhes sobre as características do software Escola X a ser desenvolvido, especificando os problemas que estimularam a criação dessa solução em software. O documento é dividido da seguinte maneira: inicialmente é especificado qual problema motivou o desenvolvimento da solução, em seguida as partes interessadas são descritas, e por fim todos os recursos, restrições e requisitos do produto são apresentados.
+2.Visão dos Casos de Uso
+![274275041-c4c1f08a-57b7-4de7-8e16-12d76c691c85](https://github.com/kemellyamorim/monitoria/assets/144693858/21f3be01-a18d-45a9-b21e-e844088848f8)
 
 
 
