@@ -4,7 +4,7 @@ Este documento possui como finalidade a elucidação das questões relacionadas 
 # 1.2 Escopo
 Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
 
-2.Visão dos Casos de Uso
+# 2.Visão dos Casos de Uso
 ![274275041-c4c1f08a-57b7-4de7-8e16-12d76c691c85](https://github.com/kemellyamorim/monitoria/assets/144693858/21f3be01-a18d-45a9-b21e-e844088848f8)
 
 
