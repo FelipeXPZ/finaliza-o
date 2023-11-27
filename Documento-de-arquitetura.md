@@ -1,7 +1,8 @@
 # 1. Introdução
 ## 1.1 Este documento tem como objetivo definir e organizar as características sobre o desenvolvimento da solução Escola X.
 
-# 1.2 Este projeto tem como finalidade suprir a necessidade de controle e gerenciamento da diretoria referente a vida acadêmica dos alunos da escola Centro de Ensino Médio 01 do Gama.
+# 1.2 Escopo
+Este projeto tem como finalidade suprir a necessidade de controle e gerenciamento da diretoria referente a vida acadêmica dos alunos da escola Centro de Ensino Médio 01 do Gama.
 
 A direção busca uma solução em software para substituir um sistema previamente implementado, sendo que, deve possuir como característica fundamental a confiabilidade.
 
