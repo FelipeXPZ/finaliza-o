@@ -39,6 +39,14 @@ Este artefato documenta assuntos relacionados a visões de casos de uso e de ló
 
 # 3.1 Classe
 ![Cópia do Diagrama sem nome drawio](https://github.com/kemellyamorim/monitoria/assets/144693858/23c04ddd-b0ce-475a-b005-e04d3de93951)
+# 3.2 Colaboração entre Classes
+
+O objetivo deste tópico é apresentar as principais colaborações entre as classes para executar suas funções dentro do sistema.
+# 3.1.2 Cartão CRC
+![286593002-7b22b4ca-7a65-4f97-a48c-3f350cdaa593](https://github.com/kemellyamorim/monitoria/assets/144693858/2d4d9617-0195-4c72-a28e-b07528792c0f)
+# 3.2.2 Lógica das Responsabilidades
+Classe: Posse
+Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
 
 
 
