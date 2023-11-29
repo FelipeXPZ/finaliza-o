@@ -1,5 +1,5 @@
 # 1.introdução
-Este documento possui como finalidade a elucidação das questões relacionadas à implementação arquitetural do projeto Escola-X, desenvolvido nas disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portfólios e Projetos de Software, que possui como cliente principal a diretoria da escola CEM 01 do Gama.
+Este documento possui como finalidade a elucidação das questões relacionadas à implementação arquitetural do projeto do instituto federal ifpi-campus angical, desenvolvido nas disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portfólios e Projetos de Software, que possui como cliente principal a diretoria da escola CEM 01 do Gama.
 
 # 1.2 Escopo
 Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
