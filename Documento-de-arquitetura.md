@@ -48,13 +48,13 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 Classe: Posse
 Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
 
-### Criar um objeto usuário com os dados repassados.
-### Criar um objeto chave com os dados repassados.
-### Verificar se o usuário existe
-### Verificar se a chave existe
-### Verificar se a chave está disponível
-### Verificar autorização do usuário para posse da chave
-### Footer
+* Criar um objeto usuário com os dados repassados.
+* Criar um objeto chave com os dados repassados.
+* Verificar se o usuário existe
+* Verificar se a chave existe
+* Verificar se a chave está disponível
+* Verificar autorização do usuário para posse da chave
+* Footer
 
 
 
