@@ -11,7 +11,7 @@ Este artefato documenta assuntos relacionados a visões de casos de uso e de ló
 |Ator|Descrição|
 |---|---|
 |Adm(Diretor)|O adm irá manter os dados do corpo docente, dos alunos e poderá consultar os dados dos alunos|
-|Aluno|O aluno irá registrar sua entrada e saída e poderá consultar seus dados|
+|Aluno|O aluno irá registrar sua entrada e saída e poderá consultar seus dados| 
 |Responsável|O responsável pode consultar os dados do aluno e será notificado da sua entrada e saída|
 |Professor|O professor pode consultar dados dos alunos e gerar notificação|
 |Secretário|O secretário pode registrar nota e consultar dados dos aluno|
