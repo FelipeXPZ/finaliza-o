@@ -1,7 +1,7 @@
 # 1.introdução
 Este documento possui como finalidade a elucidação das questões relacionadas à implementação arquitetural do projeto do instituto federal ifpi-campus angical, desenvolvido nas disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portfólios e Projetos de Software, que possui como cliente principal a diretoria da escola CEM 01 do Gama.
 
-# 1.1 Finalidade
+#  1.1 Finalidade
 Este documento possui como finalidade trazer questões relacionadas à implementação arquitetural do projeto controle de chaves, idealizado na disciplina Análise e Projeto de Sistemas, que possui como cliente principal a direção da escola IFPI - Campus Angical.
 
 # 1.2 Escopo
