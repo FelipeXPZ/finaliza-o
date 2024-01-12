@@ -1,11 +1,12 @@
 # 1.introdução
-Este documento possui como finalidade a elucidação das questões relacionadas à implementação arquitetural do projeto do instituto federal ifpi-campus angical, desenvolvido nas disciplinas de Métodos de Desenvolvimento de Software e Gestão de Portfólios e Projetos de Software, que possui como cliente principal a diretoria da escola CEM 01 do Gama.
+Vamos agora desbravar as nuances do diagrama de controle de chaves, desvendando os segredos por trás da gestão inteligente de acessos e compartilhando conhecimentos essenciais para a construção de ambientes mais seguros e organizados.
+Ao longo deste documento, exploraremos não apenas os aspectos técnicos do diagrama, mas também seu impacto prático em situações do dia a dia. Seja você um desenvolvedor que busca insights para implementar um sistema eficiente, um gestor preocupado com a segurança do local ou um usuário final envolvido na operação diária, esta jornada visa fornecer uma compreensão aprofundada do controle de chaves e sua importância crescente.
 
 #  1.1 Finalidade
-Este documento possui como finalidade trazer questões relacionadas à implementação arquitetural do projeto controle de chaves, idealizado na disciplina Análise e Projeto de Sistemas, que possui como cliente principal a direção da escola IFPI - Campus Angical.
+Este documento possui como finalidade trazer questões relacionadas à implementação arquitetural do projeto controle de chaves, idealizado na disciplina Análise e Projeto de Sistemas, que possui como cliente principal a direção da escola IFPI - Campus Angical.Portanto, a importância desse documento reside na sua capacidade de fornecer uma visão clara e concisa do sistema de controle de chaves, promovendo uma implementação eficiente, segura e satisfatória para todas as partes envolvidas.
 
 # 1.2 Escopo
-Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
+O diagrama a seguir de controle de chaves é uma representação visual que prorciona uma visão abrangente e organizada de como um sistema gerencia o acesso e a posse das chaves em um determinado ambiente.
 
 ![92ea6c16-7df6-4b53-905a-9bc7ff10ebd2](https://github.com/kemellyamorim/monitoria/assets/144693858/cb970457-73d2-4759-90ba-c18dffc3916a)
 
