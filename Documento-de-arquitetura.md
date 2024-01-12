@@ -7,7 +7,6 @@ Este documento possui como finalidade trazer questões relacionadas à implement
 # 1.2 Escopo
 Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
 
-# 2
 ![92ea6c16-7df6-4b53-905a-9bc7ff10ebd2](https://github.com/kemellyamorim/monitoria/assets/144693858/cb970457-73d2-4759-90ba-c18dffc3916a)
 
 
