@@ -8,6 +8,7 @@ Este documento possui como finalidade trazer questões relacionadas à implement
 # 1.2 Escopo
 O diagrama a seguir de controle de chaves é uma representação visual que prorciona uma visão abrangente e organizada de como um sistema gerencia o acesso e a posse das chaves em um determinado ambiente.
 
+# 2. Visão dos casos de uso
 ![92ea6c16-7df6-4b53-905a-9bc7ff10ebd2](https://github.com/kemellyamorim/monitoria/assets/144693858/cb970457-73d2-4759-90ba-c18dffc3916a)
 
 
