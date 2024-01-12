@@ -7,8 +7,10 @@ Este documento possui como finalidade trazer questões relacionadas à implement
 # 1.2 Escopo
 Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
 
-# 2.Visão dos Casos de Uso
-![274275041-c4c1f08a-57b7-4de7-8e16-12d76c691c85](https://github.com/kemellyamorim/monitoria/assets/144693858/21f3be01-a18d-45a9-b21e-e844088848f8)
+# 2
+![f18dfc0b-fcf0-4ab1-b279-cb5748ba74be](https://github.com/kemellyamorim/monitoria/assets/144693858/b59f1677-0ed7-4bf7-96db-2166fd580a35)
+.Visão dos Casos de Uso
+
 # 2.1 Atores de Casos de Uso
 
 |Ator|Descrição|
