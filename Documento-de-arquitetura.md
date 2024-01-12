@@ -51,7 +51,7 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 # 3.1.2 Cartão CRC
 ![286593002-7b22b4ca-7a65-4f97-a48c-3f350cdaa593](https://github.com/kemellyamorim/monitoria/assets/144693858/2d4d9617-0195-4c72-a28e-b07528792c0f)
 # 3.2.2 Lógica das Responsabilidades
-Responsabilidade: Cadastrar
+1.Responsabilidade: Cadastrar
 
 Colaboradoras:
 Usuário
@@ -63,7 +63,7 @@ Consultar Chave
 Chave disponível
 Autorização da chave
 
-Responsabilidade: Em aberto
+2.Responsabilidade: Em aberto
 
 Colaboradoras:
 Usuário
@@ -72,7 +72,7 @@ Colaborações:
 Retornar Usuário
 Retornar Chave
 
-Responsabilidade: Retirar
+3.Responsabilidade: Retirar
 
 Colaboradoras:
 Usuário
@@ -82,7 +82,7 @@ Notificar()
 Retornar Usuário
 Retornar Chave
 
-Responsabilidade: Transferir
+4.Responsabilidade: Transferir
 
 Colaboradoras:
 Usuário
@@ -91,7 +91,7 @@ Consultar Usuário
 Retirar()
 Cadastrar()
 
-Responsabilidade: Pesquisar
+5.Responsabilidade: Pesquisar
 
 Colaboradoras:
 Usuário
@@ -112,6 +112,8 @@ Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
 * Verificar se a chave está disponível
 * Verificar autorização do usuário para posse da chave
 * Responsabilidade:em Aberto()- Listar
+
+Na lógica proposta, cada responsabilidade está associada a um conjunto específico de colaboradoras (atores ou entidades envolvidos) e colaborações (ações ou funções realizadas). Isso ajuda a organizar de maneira clara as relações entre diferentes partes do sistema de controle de chaves, tornando mais fácil entender quais entidades estão envolvidas em cada tarefa e quais ações são executadas para cumprir uma responsabilidade específica.
 
 
 
