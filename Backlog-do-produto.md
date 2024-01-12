@@ -14,8 +14,8 @@
 
 # Planejamento da Release
 
-## Release 01 - Visualizar os boletins Aluno
-### Data Início: xx-xx-2022. Data Fim: xx-xx-2022
+* Release 01 - Visualizar os boletins Aluno
+* Data Início: xx-xx-2022. Data Fim: xx-xx-2022
 
 # Histórias
 * US01 - Manter turmas
