@@ -101,6 +101,7 @@ Consultar Chave
 Retornar Usuário
 Retornar Chave
 
+Na lógica proposta, cada responsabilidade está associada a um conjunto específico de colaboradoras (atores ou entidades envolvidos) e colaborações (ações ou funções realizadas). Isso ajuda a organizar de maneira clara as relações entre diferentes partes do sistema de controle de chaves, tornando mais fácil entender quais entidades estão envolvidas em cada tarefa e quais ações são executadas para cumprir uma responsabilidade específica.
 
 Classe: Posse
 Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
@@ -113,7 +114,6 @@ Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
 * Verificar autorização do usuário para posse da chave
 * Responsabilidade:em Aberto()- Listar
 
-Na lógica proposta, cada responsabilidade está associada a um conjunto específico de colaboradoras (atores ou entidades envolvidos) e colaborações (ações ou funções realizadas). Isso ajuda a organizar de maneira clara as relações entre diferentes partes do sistema de controle de chaves, tornando mais fácil entender quais entidades estão envolvidas em cada tarefa e quais ações são executadas para cumprir uma responsabilidade específica.
 
 
 
