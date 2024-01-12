@@ -51,6 +51,53 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 # 3.1.2 Cartão CRC
 ![286593002-7b22b4ca-7a65-4f97-a48c-3f350cdaa593](https://github.com/kemellyamorim/monitoria/assets/144693858/2d4d9617-0195-4c72-a28e-b07528792c0f)
 # 3.2.2 Lógica das Responsabilidades
+Responsabilidade: Cadastrar
+
+*Colaboradoras:
+Usuário
+Chave
+Autorização
+Colaborações:
+Consultar Usuário
+Consultar Chave
+Chave disponível
+Autorização da chave
+Responsabilidade: Em aberto
+
+*Colaboradoras:
+Usuário
+Chave
+*Colaborações:
+Retornar Usuário
+Retornar Chave
+Responsabilidade: Retirar
+
+*Colaboradoras:
+Usuário
+Chave
+*Colaborações:
+Notificar()
+Retornar Usuário
+Retornar Chave
+Responsabilidade: Transferir
+
+*Colaboradoras:
+Usuário
+Colaborações:
+Consultar Usuário
+Retirar()
+Cadastrar()
+Responsabilidade: Pesquisar
+
+*Colaboradoras:
+Usuário
+Chave
+Colaborações:
+Consultar Chave
+Retornar Usuário
+Retornar Chave
+
+
 Classe: Posse
 Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
 
