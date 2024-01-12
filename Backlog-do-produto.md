@@ -1,4 +1,3 @@
-# Histórias de Usúario 
 
  # HISTORIA DO USUARIO
 | Identificador | Historia | Pontuação
