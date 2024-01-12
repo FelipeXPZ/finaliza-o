@@ -60,9 +60,7 @@ Responsabilidade: cadastrar() - Cadastrar a posse de uma chave para um usuário.
 * Verificar se a chave existe
 * Verificar se a chave está disponível
 * Verificar autorização do usuário para posse da chave
-* Footer
-
-* Responsabilidade**:emAberto()- Listar
+* Responsabilidade:em Aberto()- Listar
 
 
 
