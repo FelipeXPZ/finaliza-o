@@ -53,7 +53,7 @@ O objetivo deste tópico é apresentar as principais colaborações entre as cla
 # 3.2.2 Lógica das Responsabilidades
 Responsabilidade: Cadastrar
 
-*Colaboradoras:
+Colaboradoras:
 Usuário
 Chave
 Autorização
@@ -62,34 +62,38 @@ Consultar Usuário
 Consultar Chave
 Chave disponível
 Autorização da chave
+
 Responsabilidade: Em aberto
 
-*Colaboradoras:
+Colaboradoras:
 Usuário
 Chave
-*Colaborações:
+Colaborações:
 Retornar Usuário
 Retornar Chave
+
 Responsabilidade: Retirar
 
-*Colaboradoras:
+Colaboradoras:
 Usuário
 Chave
-*Colaborações:
+Colaborações:
 Notificar()
 Retornar Usuário
 Retornar Chave
+
 Responsabilidade: Transferir
 
-*Colaboradoras:
+Colaboradoras:
 Usuário
 Colaborações:
 Consultar Usuário
 Retirar()
 Cadastrar()
+
 Responsabilidade: Pesquisar
 
-*Colaboradoras:
+Colaboradoras:
 Usuário
 Chave
 Colaborações:
