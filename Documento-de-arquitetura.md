@@ -8,8 +8,8 @@ Este documento possui como finalidade trazer questões relacionadas à implement
 Este artefato documenta assuntos relacionados a visões de casos de uso e de lógica do projeto.
 
 # 2
-![f18dfc0b-fcf0-4ab1-b279-cb5748ba74be](https://github.com/kemellyamorim/monitoria/assets/144693858/b59f1677-0ed7-4bf7-96db-2166fd580a35)
-.Visão dos Casos de Uso
+![92ea6c16-7df6-4b53-905a-9bc7ff10ebd2](https://github.com/kemellyamorim/monitoria/assets/144693858/cb970457-73d2-4759-90ba-c18dffc3916a)
+
 
 # 2.1 Atores de Casos de Uso
 
