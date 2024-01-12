@@ -18,14 +18,14 @@
 ### Data Início: xx-xx-2022. Data Fim: xx-xx-2022
 
 # Histórias
-### US01 - Manter turmas
-### US02 - Manter disciplinas
-### US03 - Manter Alunos
-### US04 - Manter os professores
-### US05 - Visualizar o meu boletim
+* US01 - Manter turmas
+* US02 - Manter disciplinas
+* US03 - Manter Alunos
+* US04 - Manter os professores
+* US05 - Visualizar o meu boletim
 
-## Valor Agregado
-### O usuário diretor/secretário conseguirá realizar ações básicas(cadastrar, deletar, editar e consultar) nos módulos de turmas, disciplinas, alunos e professores.
-### O usuário aluno conseguirá visualizar seu boletim.
+* Valor Agregado
+* O usuário diretor/secretário conseguirá realizar ações básicas(cadastrar, deletar, editar e consultar) nos módulos de turmas, disciplinas, alunos e professores.
+* O usuário aluno conseguirá visualizar seu boletim.
  
 ![d30020ea-fd60-427a-a099-891731ac15cb](https://github.com/kemellyamorim/monitoria/assets/144693858/da43c584-a861-42a4-863d-97261ba02a50)
